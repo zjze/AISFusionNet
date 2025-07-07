@@ -17,4 +17,4 @@ This architecture enables the model to leverage both numerical and visual inform
 
 Below are the confusion matrices of several models used in ship classification:
 ### 1.AISFusion
-![AISFusion Matrix](matrix.jpg)
+![AISFusion Matrix](martix.jpg)

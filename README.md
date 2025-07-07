@@ -14,7 +14,7 @@ Finally, features are fused and passed to a fully connected classifier.
 
 This architecture enables the model to leverage both numerical and visual information, significantly improving classification accuracy on challenging ship types.
 
-### 1.AISFusion
+### 1.AISFusion flow chart
 
 This is a multimodal deep learning model designed for fine-grained ship classification. It fuses both AIS time-series features and trajectory images to leverage complementary spatial-temporal information.
 

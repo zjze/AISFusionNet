@@ -31,3 +31,6 @@ Below are the confusion matrices of several models used in ship classification:
 
 Due to storage limitations, some of my datasets are available at the following links:
 https://figshare.com/articles/dataset/AISFusionNet_Dataset/29557838
+
+### License
+See the LICENSE file for details.
